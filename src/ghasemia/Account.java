@@ -1,7 +1,6 @@
 package ghasemia;
 
 /**
- * Assignment 2
  *
  * Program : Making a library
  *
